@@ -1,7 +1,7 @@
 body {
     font-family: sans-serif;
     text-align: center;
-    background-image: linear-gradient(to bottom, lightblue, white, blue, white, lightblue, blue, white, lightblue, blue , white, lightblue, blue, white, lightblue, blue);
+    background-image: linear-gradient(to bottom, lightblue, white, white, lightblue, white, lightblue, white, lightblue, white, lightblue);
 }
 header {
     background-color: blue;

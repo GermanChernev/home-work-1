@@ -129,7 +129,7 @@ section {
 }
 
 html {
-    background-color: #550272;
+    background-image: linear-gradient(to bottom, lightblue, white, blue, white, lightblue, blue, white, lightblue, blue , white, lightblue, blue, white, lightblue, blue);
 }
 
 body {
